@@ -1,0 +1,19 @@
+[data-bs-theme=bodered-theme] body { 
+
+    background-color: rgb(255, 255, 255);
+
+    .top-header { 
+        border-bottom: 1px solid #dee2e6;
+        box-shadow: none !important;
+    }
+
+    .card {
+        box-shadow: none;
+        border: 1px solid #dee2e6;
+    }
+    
+    .raised {
+        box-shadow: none;
+    }
+
+}
